@@ -1,0 +1,372 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+section {
+    width: 100%;
+    height: 1000vh;
+    background: #f9f7f4;
+    
+}
+
+.wrapper {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.wrapper img {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.wrapper .a {
+    margin-left: 500px;
+}
+
+.wrapper h2 {
+    margin: 0px 19px;
+    margin-top: 50px;
+}
+
+.jaxa {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.jaxa2 {
+    margin: 40px 0;
+}
+
+.b {
+    width: 156px;
+    height: 56px;
+    background: #28514F;
+    border-radius: 50px;
+    border: none;
+    color: #f9f7f4;
+    margin: 0 15px;
+}
+
+.d {
+    width: 156px;
+    height: 56px;
+    background: #AEB4B6;
+    border-radius: 50px;
+    border: none;
+    color: #f9f7f4;
+}
+
+.jaxa3 {
+    display: flex;
+    justify-content: center;
+}
+
+.a button {
+    width: 85px;
+    height: 38px;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 00;
+}
+
+.jaxa3 .dada {
+    position: absolute;
+    top: 475px;
+}
+
+.jaxa3 .dada .q {
+    position: absolute;
+    right: 124px;
+}
+
+.jaxa3 .dada .w {
+    position: absolute;
+    left: 33px;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-right: 80px;
+}
+
+.line {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.gpala {
+    margin-bottom: 50px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text2 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+.box {
+    width: 460px;
+    height: 768px;
+    background: #DAE1F4;
+    border-radius: 20px;
+    margin-top: 118px;
+    margin-right: 10px;
+    
+}
+
+.box2 {
+    width: 460px;
+    height: 886px;
+    background: #D0E6F3;
+    border-radius: 20px;
+}
+
+.qiyinchili {
+    display: flex;
+    margin: 10px 0;
+    margin-left: 300px;
+}
+
+.box3 {
+    width: 460px;
+    height: 832px;
+    background: #E0F0E6;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.box4 {
+    width: 460px;
+    height: 771px;
+    background: #F4F0E9;
+    border-radius: 20px;
+}
+
+.qiyinchilik2 {
+    display: flex;
+    margin: 10px 0;
+    margin-left: 300px;
+}
+
+.box img {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.box .lala {
+    margin: 10px 0;
+}
+
+.box2 img {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.box2 .lala2 {
+    margin: 10px 0;
+}
+
+.box3 img {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.box4 img {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.box4 .lala4 {
+    margin: 10px 0;
+}
+
+.chiziq {
+    text-align: center;
+    margin: 150px 0;
+}
+
+.tex1 {
+    text-align: center;
+}
+
+
+.tex1 .faa {
+    margin: 30px 0;
+}
+
+.auf {
+    width: 294px;
+    height: 230px;
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+
+.auf img {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.dada .g {
+    position: relative;
+    bottom: 22px;
+    right: 20px;
+}
+
+.dada .e {
+    position: relative;
+    bottom: px;
+    right: 112px;
+}
+
+.wrapper1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper2 {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.kalla {
+    text-align: center;
+    margin-bottom: 180px;
+}
+
+.kattaa {
+    width: 100%;
+    height: 805px;
+    background: #28514F;
+    text-align: center;
+}
+
+.barmoq {
+    position: absolute;
+    left: 700px;
+    top: 4780px;
+}
+
+.katta {
+    padding-top: 200px;
+}
+
+.kattaa button {
+    width: 204px;
+    height: 55px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 50px;
+}
+
+.absolute {
+    width: 100%;
+    background-size: cover;
+    position: absolute;
+    top: 5450px;
+    left: 6%;
+    
+}
+
+.oxiri1 {
+    display: flex;
+    justify-content: center;
+}
+
+.oxiri {
+    width: 940px;
+    height: 348px;
+    background: #F8E6BE;
+    margin-top: 40px;
+}
+
+.photo2000 {
+    position: relative;
+    left: 500px;
+    bottom: 280px;
+}
+
+.stay {
+    margin: 100px 50px;
+}
+
+.eng {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.up {
+    margin: 20px 0;
+}
+
+.orta {
+    display: flex;
+    justify-content: center;
+}
+
+.input input {
+    width: 340px;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.img {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.tup {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.vaaa {
+    display: flex;
+}
+
+.taq {
+    display: flex;
+    margin: 60px 300px;
+}
+
+.taq2 {
+    display: flex;
+    margin: 60px 100px;
+}
+
+.tugadi {
+    margin: 50px 100px;
+    margin-left: 150px;
+}
+
+.tugadi3 {
+    margin: 0 15px;
+}
+
+.tugadi6 {
+    margin: 0 15px;
+}
+
+
+
